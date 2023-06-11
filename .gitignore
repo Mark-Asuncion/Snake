@@ -1,0 +1,6 @@
+cmp.bat
+run.bat
+.vscode/
+out/*
+snake/*
+ignore/*
